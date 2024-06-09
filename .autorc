@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Cfrolich13",
+  "repo": "container-i6zjvx8",
+  "name": "Cfrolich13",
+  "email": "Cfro1212@gmail.com",
+}
